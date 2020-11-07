@@ -19,4 +19,4 @@ while (middle != number) {
     }
 }
 
-console.log("Magic Number: " + middle);
+console.log("Magic Number: " + middle); 

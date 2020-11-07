@@ -5,7 +5,7 @@ let numberOfBets = 0;
 let winCount = 0;
 let oddsOfWinning = 0.5;
 let flag=0;
-while (currentAmount > 0 && currentAmount < 200) {
+while (currentAmount > 0 && currentAmount < 200) { 
     numberOfBets++;
     if (Math.random() < oddsOfWinning) {
         winCount++;

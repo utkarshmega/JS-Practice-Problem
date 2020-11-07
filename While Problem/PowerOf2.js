@@ -6,4 +6,4 @@ let index = 0;
 while (index <= number) {
     console.log(2**index);
     index++;
-}
+} 

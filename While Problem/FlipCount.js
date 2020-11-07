@@ -13,4 +13,4 @@ while (headsCount != 11 && tailsCount != 11) {
         console.log('Outcome on '+ coinFlipCount + ' flip = Tails');
         console.log('Tails Count: ' + tailsCount);
     }
-}
+} 
