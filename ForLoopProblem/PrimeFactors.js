@@ -7,7 +7,7 @@ while (number % 2 == 0) {
     console.log(2);
     number /= 2;
 }
-
+ 
 //Prints all the odd numbers that divide the number
 for (let index = 3; index * index <= number; index += 2) {
     while (number % index == 0) {
